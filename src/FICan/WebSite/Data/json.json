@@ -1,0 +1,1661 @@
+﻿{
+    "HasAttribute": "True",
+    "HasSKU": "True",
+    "HasBrandCategory": "True",
+    "Attributes": [
+        {
+            "Name": "年份/季节",
+            "AttributeId": "231",
+            "UsageMode": "1",
+            "AttributeValues": [
+                {
+                    "ValueId": "21213",
+                    "ValueStr": "2015年夏季",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22729",
+                    "ValueStr": "2015年秋季",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22728",
+                    "ValueStr": "2015年冬季",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21214",
+                    "ValueStr": "2015年春季",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21210",
+                    "ValueStr": "2014年夏季",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21212",
+                    "ValueStr": "2014年秋季",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21209",
+                    "ValueStr": "2014年冬季",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21211",
+                    "ValueStr": "2014年春季",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21227",
+                    "ValueStr": "2014春季",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21223",
+                    "ValueStr": "2013年夏季",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21226",
+                    "ValueStr": "2013年秋季",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21225",
+                    "ValueStr": "2013年冬季",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21224",
+                    "ValueStr": "2013年春季",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21216",
+                    "ValueStr": "2012年夏季",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21222",
+                    "ValueStr": "2012年秋季",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21217",
+                    "ValueStr": "2012年冬季",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21218",
+                    "ValueStr": "2012年春季",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21219",
+                    "ValueStr": "2011年夏季",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21215",
+                    "ValueStr": "2011年秋季",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21221",
+                    "ValueStr": "2011年冬季",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21220",
+                    "ValueStr": "2011年春季",
+                    "ValueType": "NoThing"
+                }
+            ],
+            "IS_ALLOW_ALIAS": "0",
+            "IS_INPUT_PROP": "0"
+        },
+        {
+            "Name": "材质工艺",
+            "AttributeId": "246",
+            "UsageMode": "1",
+            "AttributeValues": [
+                {
+                    "ValueId": "21925",
+                    "ValueStr": "褶皱",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21920",
+                    "ValueStr": "扎染",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21919",
+                    "ValueStr": "压皱",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21931",
+                    "ValueStr": "烫印",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21929",
+                    "ValueStr": "丝光",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21927",
+                    "ValueStr": "其他",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21930",
+                    "ValueStr": "泼墨",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21922",
+                    "ValueStr": "扭花",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21923",
+                    "ValueStr": "磨毛",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21926",
+                    "ValueStr": "磨边",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21928",
+                    "ValueStr": "免烫处理",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21921",
+                    "ValueStr": "蜡染",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21924",
+                    "ValueStr": "吊染",
+                    "ValueType": "NoThing"
+                }
+            ],
+            "IS_ALLOW_ALIAS": "0",
+            "IS_INPUT_PROP": "0"
+        },
+        {
+            "Name": "性别",
+            "AttributeId": "248",
+            "UsageMode": "1",
+            "AttributeValues": [
+                {
+                    "ValueId": "22319",
+                    "ValueStr": "女",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22320",
+                    "ValueStr": "男",
+                    "ValueType": "NoThing"
+                }
+            ],
+            "IS_ALLOW_ALIAS": "0",
+            "IS_INPUT_PROP": "0"
+        },
+        {
+            "Name": "面料材质",
+            "AttributeId": "252",
+            "UsageMode": "1",
+            "AttributeValues": [
+                {
+                    "ValueId": "22363",
+                    "ValueStr": "羊毛",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22379",
+                    "ValueStr": "羊羔毛",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22364",
+                    "ValueStr": "兔毛",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22382",
+                    "ValueStr": "胎牛皮",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22377",
+                    "ValueStr": "獭兔毛",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22366",
+                    "ValueStr": "水貂毛",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22367",
+                    "ValueStr": "其他",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22381",
+                    "ValueStr": "牛皮",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22380",
+                    "ValueStr": "绵羊皮",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22378",
+                    "ValueStr": "狐狸毛",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22376",
+                    "ValueStr": "貉子毛",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22362",
+                    "ValueStr": "仿毛皮",
+                    "ValueType": "NoThing"
+                }
+            ],
+            "IS_ALLOW_ALIAS": "0",
+            "IS_INPUT_PROP": "0"
+        },
+        {
+            "Name": "袖长",
+            "AttributeId": "274",
+            "UsageMode": "1",
+            "AttributeValues": [
+                {
+                    "ValueId": "22665",
+                    "ValueStr": "五分袖",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22666",
+                    "ValueStr": "无袖",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22663",
+                    "ValueStr": "七分袖",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22664",
+                    "ValueStr": "九分袖",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22667",
+                    "ValueStr": "短袖",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22668",
+                    "ValueStr": "长袖",
+                    "ValueType": "NoThing"
+                }
+            ],
+            "IS_ALLOW_ALIAS": "0",
+            "IS_INPUT_PROP": "0"
+        },
+        {
+            "Name": "服装版型",
+            "AttributeId": "275",
+            "UsageMode": "1",
+            "AttributeValues": [
+                {
+                    "ValueId": "22669",
+                    "ValueStr": "直筒",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22670",
+                    "ValueStr": "修身",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22672",
+                    "ValueStr": "宽松",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22671",
+                    "ValueStr": "斗篷型",
+                    "ValueType": "NoThing"
+                }
+            ],
+            "IS_ALLOW_ALIAS": "0",
+            "IS_INPUT_PROP": "0"
+        },
+        {
+            "Name": "款式",
+            "AttributeId": "276",
+            "UsageMode": "1",
+            "AttributeValues": [
+                {
+                    "ValueId": "22676",
+                    "ValueStr": "中长款",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22674",
+                    "ValueStr": "短款",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22673",
+                    "ValueStr": "超短",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22675",
+                    "ValueStr": "常规",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22677",
+                    "ValueStr": "长款",
+                    "ValueType": "NoThing"
+                }
+            ],
+            "IS_ALLOW_ALIAS": "0",
+            "IS_INPUT_PROP": "0"
+        },
+        {
+            "Name": "领型",
+            "AttributeId": "277",
+            "UsageMode": "1",
+            "AttributeValues": [
+                {
+                    "ValueId": "22679",
+                    "ValueStr": "圆领",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22686",
+                    "ValueStr": "一字领",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22682",
+                    "ValueStr": "西装领",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22683",
+                    "ValueStr": "娃娃领",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22685",
+                    "ValueStr": "双层领",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22693",
+                    "ValueStr": "其他",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22694",
+                    "ValueStr": "连帽",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22678",
+                    "ValueStr": "立领",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22684",
+                    "ValueStr": "可脱卸帽",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22687",
+                    "ValueStr": "荷叶领",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22691",
+                    "ValueStr": "海军领",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22690",
+                    "ValueStr": "高领",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22681",
+                    "ValueStr": "方领",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22692",
+                    "ValueStr": "堆堆领",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22689",
+                    "ValueStr": "半开领",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22695",
+                    "ValueStr": "半高领",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22680",
+                    "ValueStr": "V领",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22688",
+                    "ValueStr": "POLO领",
+                    "ValueType": "NoThing"
+                }
+            ],
+            "IS_ALLOW_ALIAS": "0",
+            "IS_INPUT_PROP": "0"
+        },
+        {
+            "Name": "袖型",
+            "AttributeId": "278",
+            "UsageMode": "1",
+            "AttributeValues": [
+                {
+                    "ValueId": "22698",
+                    "ValueStr": "其他",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22709",
+                    "ValueStr": "泡泡袖",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22708",
+                    "ValueStr": "喇叭袖",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22703",
+                    "ValueStr": "花瓣袖",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22704",
+                    "ValueStr": "荷叶袖",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22697",
+                    "ValueStr": "公主袖",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22696",
+                    "ValueStr": "飞飞袖",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22699",
+                    "ValueStr": "堆堆袖",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22706",
+                    "ValueStr": "灯笼袖",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22700",
+                    "ValueStr": "衬衫袖",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22705",
+                    "ValueStr": "常规",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22701",
+                    "ValueStr": "插肩袖",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22702",
+                    "ValueStr": "蝙蝠袖",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22707",
+                    "ValueStr": "包袖",
+                    "ValueType": "NoThing"
+                }
+            ],
+            "IS_ALLOW_ALIAS": "0",
+            "IS_INPUT_PROP": "0"
+        },
+        {
+            "Name": "衣门襟",
+            "AttributeId": "279",
+            "UsageMode": "1",
+            "AttributeValues": [
+                {
+                    "ValueId": "22712",
+                    "ValueStr": "三粒扣",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22713",
+                    "ValueStr": "其他",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22710",
+                    "ValueStr": "拉链",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22711",
+                    "ValueStr": "单排两粒扣",
+                    "ValueType": "NoThing"
+                }
+            ],
+            "IS_ALLOW_ALIAS": "0",
+            "IS_INPUT_PROP": "0"
+        },
+        {
+            "Name": "皮质",
+            "AttributeId": "280",
+            "UsageMode": "1",
+            "AttributeValues": [
+                {
+                    "ValueId": "22716",
+                    "ValueStr": "猪皮",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22714",
+                    "ValueStr": "羊皮",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22719",
+                    "ValueStr": "兔毛",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22720",
+                    "ValueStr": "其他",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22715",
+                    "ValueStr": "牛皮",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22717",
+                    "ValueStr": "鹿皮",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22721",
+                    "ValueStr": "貂皮",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22718",
+                    "ValueStr": "PU",
+                    "ValueType": "NoThing"
+                }
+            ],
+            "IS_ALLOW_ALIAS": "0",
+            "IS_INPUT_PROP": "0"
+        },
+        {
+            "Name": "制作工艺",
+            "AttributeId": "281",
+            "UsageMode": "1",
+            "AttributeValues": [
+                {
+                    "ValueId": "22724",
+                    "ValueStr": "压花皮",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22723",
+                    "ValueStr": "水洗皮",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22726",
+                    "ValueStr": "蛇纹皮",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22725",
+                    "ValueStr": "漆皮",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22722",
+                    "ValueStr": "磨砂",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22727",
+                    "ValueStr": "爆炸皮",
+                    "ValueType": "NoThing"
+                }
+            ],
+            "IS_ALLOW_ALIAS": "0",
+            "IS_INPUT_PROP": "0"
+        },
+        {
+            "Name": "价格区间",
+            "AttributeId": "130",
+            "UsageMode": "1",
+            "AttributeValues": [
+                {
+                    "ValueId": "22375",
+                    "ValueStr": "8000元以上",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22374",
+                    "ValueStr": "5000-8000元",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22373",
+                    "ValueStr": "3000元-5000元",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22372",
+                    "ValueStr": "2000-3000元",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "1086",
+                    "ValueStr": "1000元以下",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "1068",
+                    "ValueStr": "1000-2000元",
+                    "ValueType": "NoThing"
+                }
+            ],
+            "IS_ALLOW_ALIAS": "0",
+            "IS_INPUT_PROP": "1"
+        },
+        {
+            "Name": "风格",
+            "AttributeId": "221",
+            "UsageMode": "1",
+            "AttributeValues": [
+                {
+                    "ValueId": "21092",
+                    "ValueStr": "通勤",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21091",
+                    "ValueStr": "甜美",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21093",
+                    "ValueStr": "街头",
+                    "ValueType": "NoThing"
+                }
+            ],
+            "IS_ALLOW_ALIAS": "0",
+            "IS_INPUT_PROP": "0"
+        },
+        {
+            "Name": "流行元素",
+            "AttributeId": "229",
+            "UsageMode": "1",
+            "AttributeValues": [
+                {
+                    "ValueId": "21193",
+                    "ValueStr": "做旧",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21188",
+                    "ValueStr": "植绒",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21173",
+                    "ValueStr": "褶皱",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21190",
+                    "ValueStr": "扎染",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21184",
+                    "ValueStr": "扎花",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21164",
+                    "ValueStr": "油漆喷溅",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21181",
+                    "ValueStr": "印花",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21202",
+                    "ValueStr": "燕尾",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21198",
+                    "ValueStr": "锈斑处理",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21171",
+                    "ValueStr": "绣花",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21161",
+                    "ValueStr": "镶钻",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21180",
+                    "ValueStr": "系带",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21170",
+                    "ValueStr": "贴布",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21200",
+                    "ValueStr": "树脂固色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21165",
+                    "ValueStr": "手工磨破",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21196",
+                    "ValueStr": "纱网",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21167",
+                    "ValueStr": "破洞",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21182",
+                    "ValueStr": "拼接",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21158",
+                    "ValueStr": "纽扣",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21174",
+                    "ValueStr": "木耳",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21155",
+                    "ValueStr": "铆钉",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21159",
+                    "ValueStr": "毛领",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21183",
+                    "ValueStr": "螺纹",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21197",
+                    "ValueStr": "乱针修补",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21163",
+                    "ValueStr": "露背",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21168",
+                    "ValueStr": "镂空",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21177",
+                    "ValueStr": "流苏",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21160",
+                    "ValueStr": "亮丝",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21194",
+                    "ValueStr": "亮片",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21172",
+                    "ValueStr": "链条",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21185",
+                    "ValueStr": "立体装饰",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21201",
+                    "ValueStr": "蕾丝",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21156",
+                    "ValueStr": "拉链",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21178",
+                    "ValueStr": "口袋",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21166",
+                    "ValueStr": "酵磨漂",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21157",
+                    "ValueStr": "肩章",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21187",
+                    "ValueStr": "蝴蝶结",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21179",
+                    "ValueStr": "荷叶边",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21176",
+                    "ValueStr": "勾花镂空",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21162",
+                    "ValueStr": "高温定型",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21175",
+                    "ValueStr": "高锰酸洗",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21191",
+                    "ValueStr": "钉珠",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21169",
+                    "ValueStr": "抽褶",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21186",
+                    "ValueStr": "不对称",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21192",
+                    "ValueStr": "波浪",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21195",
+                    "ValueStr": "背带",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21189",
+                    "ValueStr": "绑带",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21199",
+                    "ValueStr": "3D",
+                    "ValueType": "NoThing"
+                }
+            ],
+            "IS_ALLOW_ALIAS": "0",
+            "IS_INPUT_PROP": "1"
+        },
+        {
+            "Name": "适用年龄",
+            "AttributeId": "230",
+            "UsageMode": "1",
+            "AttributeValues": [
+                {
+                    "ValueId": "21207",
+                    "ValueStr": "40-49周岁",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21204",
+                    "ValueStr": "35-39周岁",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21203",
+                    "ValueStr": "30-34周岁",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21205",
+                    "ValueStr": "25-29周岁",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21206",
+                    "ValueStr": "18-24周岁",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21208",
+                    "ValueStr": "17周岁以下",
+                    "ValueType": "NoThing"
+                }
+            ],
+            "IS_ALLOW_ALIAS": "0",
+            "IS_INPUT_PROP": "0"
+        }
+    ],
+    "SKUs": [
+        {
+            "Name": "颜色",
+            "AttributeId": "233",
+            "UseAttributeImage": "0",
+            "SKUValues": [
+                {
+                    "ValueId": "21651",
+                    "ValueStr": "紫色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21650",
+                    "ValueStr": "紫罗兰",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22645",
+                    "ValueStr": "紫罗兰",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22656",
+                    "ValueStr": "紫红色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22659",
+                    "ValueStr": "荧光绿",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22658",
+                    "ValueStr": "荧光黄",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22742",
+                    "ValueStr": "银色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22734",
+                    "ValueStr": "杏色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22383",
+                    "ValueStr": "香槟色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22647",
+                    "ValueStr": "香槟色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22741",
+                    "ValueStr": "西瓜红",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22744",
+                    "ValueStr": "驼色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21657",
+                    "ValueStr": "透明",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21638",
+                    "ValueStr": "天蓝色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22660",
+                    "ValueStr": "深棕色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21646",
+                    "ValueStr": "深紫色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21647",
+                    "ValueStr": "深蓝色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21644",
+                    "ValueStr": "深卡其布色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21645",
+                    "ValueStr": "深灰色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22730",
+                    "ValueStr": "乳白色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22743",
+                    "ValueStr": "青色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21639",
+                    "ValueStr": "巧克力色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22736",
+                    "ValueStr": "浅棕色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22737",
+                    "ValueStr": "浅紫色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21642",
+                    "ValueStr": "浅绿色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22738",
+                    "ValueStr": "浅蓝色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21641",
+                    "ValueStr": "浅灰色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21643",
+                    "ValueStr": "浅黄色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22384",
+                    "ValueStr": "藕色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22649",
+                    "ValueStr": "柠檬黄",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22732",
+                    "ValueStr": "墨绿色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22662",
+                    "ValueStr": "明黄色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22653",
+                    "ValueStr": "米白色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22651",
+                    "ValueStr": "玫红色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21653",
+                    "ValueStr": "绿色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22735",
+                    "ValueStr": "栗色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21655",
+                    "ValueStr": "蓝色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22655",
+                    "ValueStr": "孔雀蓝",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22731",
+                    "ValueStr": "卡其色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22646",
+                    "ValueStr": "咖啡色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22350",
+                    "ValueStr": "军绿色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22368",
+                    "ValueStr": "军绿色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21640",
+                    "ValueStr": "桔色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22654",
+                    "ValueStr": "桔红色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21658",
+                    "ValueStr": "酒红色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22644",
+                    "ValueStr": "金色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22733",
+                    "ValueStr": "姜黄色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22739",
+                    "ValueStr": "灰色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21659",
+                    "ValueStr": "黄色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21654",
+                    "ValueStr": "花色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22657",
+                    "ValueStr": "湖蓝色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21652",
+                    "ValueStr": "红色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21660",
+                    "ValueStr": "黑色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21656",
+                    "ValueStr": "褐色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22648",
+                    "ValueStr": "褐色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22650",
+                    "ValueStr": "粉红色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21649",
+                    "ValueStr": "粉红色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22661",
+                    "ValueStr": "翠绿色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22740",
+                    "ValueStr": "藏青色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22652",
+                    "ValueStr": "宝蓝色",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21648",
+                    "ValueStr": "白色",
+                    "ValueType": "NoThing"
+                }
+            ],
+            "IS_ALLOW_ALIAS": "1",
+            "IS_INPUT_PROP": "0"
+        },
+        {
+            "Name": "尺码",
+            "AttributeId": "234",
+            "UseAttributeImage": "0",
+            "SKUValues": [
+                {
+                    "ValueId": "21669",
+                    "ValueStr": "均码",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21668",
+                    "ValueStr": "XXXL",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21661",
+                    "ValueStr": "XXS",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21667",
+                    "ValueStr": "XXL",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21662",
+                    "ValueStr": "XS",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21666",
+                    "ValueStr": "XL",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22768",
+                    "ValueStr": "us8",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22767",
+                    "ValueStr": "us6",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22766",
+                    "ValueStr": "US4",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22765",
+                    "ValueStr": "US2",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22772",
+                    "ValueStr": "Us16",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22771",
+                    "ValueStr": "us14",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22770",
+                    "ValueStr": "US12",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22769",
+                    "ValueStr": "us10",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22764",
+                    "ValueStr": "US0",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22757",
+                    "ValueStr": "UK8",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22755",
+                    "ValueStr": "uk6",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22749",
+                    "ValueStr": "UK4",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22763",
+                    "ValueStr": "UK20",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22762",
+                    "ValueStr": "uk18",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22761",
+                    "ValueStr": "UK16",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22760",
+                    "ValueStr": "UK14",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22759",
+                    "ValueStr": "UK12",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22758",
+                    "ValueStr": "UK10",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21663",
+                    "ValueStr": "S",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21664",
+                    "ValueStr": "M",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21665",
+                    "ValueStr": "L",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22756",
+                    "ValueStr": "6XL",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22754",
+                    "ValueStr": "5XL",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22753",
+                    "ValueStr": "4XL",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22752",
+                    "ValueStr": "3XL",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22750",
+                    "ValueStr": "2XL",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21680",
+                    "ValueStr": "190/110(XXXL)",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21691",
+                    "ValueStr": "185/104B",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21685",
+                    "ValueStr": "185/104A",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21690",
+                    "ValueStr": "180/100B",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21684",
+                    "ValueStr": "180/100A",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21689",
+                    "ValueStr": "175/96B",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21683",
+                    "ValueStr": "175/96A",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22751",
+                    "ValueStr": "175/100A",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21688",
+                    "ValueStr": "170/92B",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21682",
+                    "ValueStr": "170/92A",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21687",
+                    "ValueStr": "165/88B",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21681",
+                    "ValueStr": "165/88A",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "2274
+8",
+                    "ValueStr": "160/84A",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21686",
+                    "ValueStr": "160/84(XS)",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "21679",
+                    "ValueStr": "160/80(XS)",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22747",
+                    "ValueStr": "155/80A",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22746",
+                    "ValueStr": "150/80A",
+                    "ValueType": "NoThing"
+                },
+                {
+                    "ValueId": "22745",
+                    "ValueStr": "145/80A",
+                    "ValueType": "NoThing"
+                }
+            ],
+            "IS_ALLOW_ALIAS": "1",
+            "IS_INPUT_PROP": "0"
+        }
+    ],
+    "BrandCategories": [
+        {
+            "BrandId": "16",
+            "BrandName": "凯勒"
+        },
+        {
+            "BrandId": "15",
+            "BrandName": "IRSUN/上戓"
+        },
+        {
+            "BrandId": "14",
+            "BrandName": "美一韩妮"
+        },
+        {
+            "BrandId": "13",
+            "BrandName": "hippies"
+        },
+        {
+            "BrandId": "12",
+            "BrandName": "Aavkani"
+        },
+        {
+            "BrandId": "11",
+            "BrandName": "SHINE BLOSSOM/夏柏莱"
+        },
+        {
+            "BrandId": "10",
+            "BrandName": "别素"
+        },
+        {
+            "BrandId": "5",
+            "BrandName": "MALOBO/玛龙宝"
+        },
+        {
+            "BrandId": "8",
+            "BrandName": "曼戈唯拉"
+        },
+        {
+            "BrandId": "7",
+            "BrandName": "LOUISKY/璐依斯伽"
+        },
+        {
+            "BrandId": "9",
+            "BrandName": "牧菲"
+        },
+        {
+            "BrandId": "2",
+            "BrandName": "SYNGE VERA/辛格维拉"
+        },
+        {
+            "BrandId": "3",
+            "BrandName": "雪豹"
+        }
+    ]
+}

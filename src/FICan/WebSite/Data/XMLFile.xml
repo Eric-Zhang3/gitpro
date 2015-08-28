@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xml>
+  <attributes>
+    <item attributeId="231" usageMode="1">
+      <attValue valueId="21213" CUS_Name="" />
+    </item>
+    <item attributeId="246" usageMode="1">
+      <attValue valueId="21925" CUS_Name="" />
+    </item>
+    <item attributeId="248" usageMode="1">
+      <attValue valueId="" CUS_Name="" />
+    </item>
+    <item attributeId="252" usageMode="1">
+      <attValue valueId="" CUS_Name="" />
+    </item>
+    <item attributeId="274" usageMode="1">
+      <attValue valueId="" CUS_Name="" />
+    </item>
+    <item attributeId="275" usageMode="1">
+      <attValue valueId="" CUS_Name="" />
+    </item>
+    <item attributeId="276" usageMode="1">
+      <attValue valueId="" CUS_Name="" />
+    </item>
+    <item attributeId="277" usageMode="1">
+      <attValue valueId="" CUS_Name="" />
+    </item>
+    <item attributeId="278" usageMode="1">
+      <attValue valueId="" CUS_Name="" />
+    </item>
+    <item attributeId="279" usageMode="1">
+      <attValue valueId="" CUS_Name="" />
+    </item>
+    <item attributeId="280" usageMode="1">
+      <attValue valueId="" CUS_Name="" />
+    </item>
+    <item attributeId="281" usageMode="1">
+      <attValue valueId="" CUS_Name="" />
+    </item>
+    <item attributeId="130" usageMode="1">
+      <attValue valueId="" CUS_Name="10w　" />
+    </item>
+    <item attributeId="221" usageMode="1">
+      <attValue valueId="" CUS_Name="" />
+    </item>
+    <item attributeId="229" usageMode="1">
+      <attValue valueId="21193" CUS_Name="土豆灰" />
+    </item>
+    <item attributeId="230" usageMode="1">
+      <attValue valueId="" CUS_Name="" />
+    </item>
+  </attributes>
+</xml>
